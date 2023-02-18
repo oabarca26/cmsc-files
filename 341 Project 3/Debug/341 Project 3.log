@@ -1,0 +1,4 @@
+﻿  mytest.cpp
+C:\Users\oabar\source\repos\341 Project 3\mytest.cpp(21,26): warning C4101: 'error': unreferenced local variable
+C:\Users\oabar\source\repos\341 Project 3\mytest.cpp(31,26): warning C4101: 'error': unreferenced local variable
+  341 Project 3.vcxproj -> C:\Users\oabar\source\repos\341 Project 3\Debug\341 Project 3.exe
