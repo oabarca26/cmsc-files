@@ -1,0 +1,13 @@
+﻿  cache.cpp
+C:\Users\oabar\source\repos\341 Project 4\cache.cpp(53,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\oabar\source\repos\341 Project 4\cache.cpp(77,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\oabar\source\repos\341 Project 4\cache.cpp(111,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\oabar\source\repos\341 Project 4\cache.cpp(119,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\oabar\source\repos\341 Project 4\cache.cpp(137,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\oabar\source\repos\341 Project 4\cache.cpp(151,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  driver.cpp
+C:\Users\oabar\source\repos\341 Project 4\driver.cpp(50,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  mytest.cpp
+C:\Users\oabar\source\repos\341 Project 4\mytest.cpp(55,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  341 Project 4.vcxproj -> C:\Users\oabar\source\repos\341 Project 4\Debug\341 Project 4.exe
